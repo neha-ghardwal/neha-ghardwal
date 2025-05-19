@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Neha 👩‍💻<br>🌟 MERN Stack Enthusiast, Competetive Programmer<br>⚛️ React | 🟦 TypeScript | 🌬️ Tailwind | 🔥 Firebase<br>🛠️ Passionate about building seamless, high-performance apps with Node.js, Express, MongoDB, and Firebase<br><br>💡 I focus on delivering clean UIs, smarter UX, and impactful full-stack solutions 🚀<br>🔨 Currently working on:<br>📊 Web Dashboards | 📱 NFC Tech | 🔗 Real-world x Tech Innovations
+Hey, I'm Neha 👩‍💻<br>🌟 MERN Stack Enthusiast, Competetive Programmer<br>⚛️ React | 🟦 TypeScript | 🌬️ Tailwind | 🔥 Firebase<br>🛠️ Passionate about building seamless, high-performance apps with Node.js, Express, MongoDB, and Firebase<br><br>💡 I focus on delivering clean UIs, smarter UX, and impactful full-stack solutions 🚀<br>🔨 Currently working on:<br>📊 Web Dashboards || 📱 NFC Tech | 🔗 Real-world x Tech Innovations
 
 
 ## 🌐 Socials:
